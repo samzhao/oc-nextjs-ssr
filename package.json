@@ -15,8 +15,10 @@
   "dependencies": {
     "@zeit/next-typescript": "^1.1.1",
     "next": "^8.0.3",
+    "oc-client": "^3.2.4",
     "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react-dom": "^16.8.3",
+    "react-oc": "^1.0.0-alpha.6"
   },
   "devDependencies": {
     "@types/next": "^7.0.6",
